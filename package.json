@@ -9,7 +9,7 @@
   },
   "devDependencies": {},
   "scripts": {
-    "devStart": "node server.js"
+    "start": "node server.js"
   },
   "keywords": [],
   "author": "",

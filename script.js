@@ -1,3 +1,5 @@
+let hostname = location.hostname;
+let port = location.port;
 let socket = io();
 //const socket = io(`http://${hostname}:${port}`,{ transports : ['websocket'] });
 const msgForm = document.getElementById("send-container");
